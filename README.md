@@ -95,8 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/aditya1860/leetcode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/aditya1860/leetcode/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
