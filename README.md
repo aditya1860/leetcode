@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/aditya1860/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
+| [0057-insert-interval](https://github.com/aditya1860/leetcode/tree/master/0057-insert-interval) |
 ## Two Pointers
 |  |
 | ------- |
