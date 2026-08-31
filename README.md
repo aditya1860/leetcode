@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya1860/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Breadth-First Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya1860/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Recursion
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
