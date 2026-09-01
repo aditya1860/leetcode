@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aditya1860/leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya1860/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Breadth-First Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aditya1860/leetcode/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya1860/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aditya1860/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
