@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/aditya1860/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/aditya1860/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/aditya1860/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/aditya1860/leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aditya1860/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aditya1860/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
