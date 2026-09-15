@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya1860/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aditya1860/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aditya1860/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aditya1860/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/aditya1860/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/aditya1860/leetcode/tree/master/0066-plus-one) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya1860/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/aditya1860/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya1860/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aditya1860/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aditya1860/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya1860/leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya1860/leetcode/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/aditya1860/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
