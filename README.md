@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditya1860/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aditya1860/leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/aditya1860/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya1860/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Breadth-First Search
 |  |
