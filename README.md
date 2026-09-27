@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditya1860/leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/aditya1860/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0319-bulb-switcher](https://github.com/aditya1860/leetcode/tree/master/0319-bulb-switcher) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya1860/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Breadth-First Search
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/aditya1860/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
