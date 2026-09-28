@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/aditya1860/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0319-bulb-switcher](https://github.com/aditya1860/leetcode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/aditya1860/leetcode/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya1860/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya1860/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya1860/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditya1860/leetcode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/aditya1860/leetcode/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya1860/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1025-divisor-game](https://github.com/aditya1860/leetcode/tree/master/1025-divisor-game) |
 ## DP on Trees
 |  |
 | ------- |
@@ -202,4 +204,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/aditya1860/leetcode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/aditya1860/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aditya1860/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aditya1860/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
