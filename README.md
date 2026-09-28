@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aditya1860/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/aditya1860/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1748-sum-of-unique-elements](https://github.com/aditya1860/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya1860/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aditya1860/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1748-sum-of-unique-elements](https://github.com/aditya1860/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/aditya1860/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
