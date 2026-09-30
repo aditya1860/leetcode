@@ -10,14 +10,12 @@ public:
         return sum;
     }
     bool isHappy(int n) {
-        set<int> seen;
-        while (n != 1) {
-            if (seen.find(n) != seen.end()) {
-                return false;
-            }
-            seen.insert(n);
-            n = sumSquare(n);
+      while(n!=1 && n!=4){
+        n = sumSquare(n);
         }
-        return true;
-    }
+        if(n==1){
+            return true;
+        }
+        return false;
+        }
 };
