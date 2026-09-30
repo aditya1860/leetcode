@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/aditya1860/leetcode/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya1860/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1025-divisor-game](https://github.com/aditya1860/leetcode/tree/master/1025-divisor-game) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## DP on Trees
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/aditya1860/leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aditya1860/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya1860/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/aditya1860/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya1860/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/aditya1860/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya1860/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -228,4 +231,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aditya1860/leetcode/tree/master/0202-happy-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+## Topological Sort
+|  |
+| ------- |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+## Bitmask
+|  |
+| ------- |
+| [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 <!---LeetCode Topics End-->
