@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/aditya1860/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya1860/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya1860/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/aditya1860/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1748-sum-of-unique-elements](https://github.com/aditya1860/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya1860/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/aditya1860/leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aditya1860/leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya1860/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
