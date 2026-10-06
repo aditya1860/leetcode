@@ -1,42 +1,45 @@
 class Solution {
 public:
     string removeDuplicateLetters(string s) {
-        vector<int> last(26, 0);
-        
+
+        map<char, int> mp;
+
+        // Count frequency
         for (int i = 0; i < s.size(); i++) {
-            last[s[i] - 'a'] = i;
+            mp[s[i]]++;
         }
 
-        stack<char> st;
-        vector<bool> used(26, false);
+        string ans = "";
+
+        // To check whether character is already in ans
+        map<char, bool> used;
 
         for (int i = 0; i < s.size(); i++) {
-            if (used[s[i] - 'a']) {
+
+            char ch = s[i];
+
+            // Current character is now being processed
+            mp[ch]--;
+
+            // If already present in answer, skip it
+            if (used[ch]) {
                 continue;
             }
 
-            // Remove larger characters if they appear again later
-            while (!st.empty() &&
-                   st.top() > s[i] &&
-                   last[st.top() - 'a'] > i) {
-                
-                used[st.top() - 'a'] = false;
-                st.pop();
+            // Remove characters from answer
+            // if current character is smaller
+            // and the previous character can appear later
+            while (!ans.empty() &&
+                   ans.back() > ch &&
+                   mp[ans.back()] > 0) {
+
+                used[ans.back()] = false;
+                ans.pop_back();
             }
 
-            st.push(s[i]);
-            used[s[i] - 'a'] = true;
+            ans += ch;
+            used[ch] = true;
         }
-
-        // Convert stack to string
-        string ans;
-
-        while (!st.empty()) {
-            ans += st.top();
-            st.pop();
-        }
-
-        reverse(ans.begin(), ans.end());
 
         return ans;
     }
