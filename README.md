@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya1860/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Tree
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya1860/leetcode/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/aditya1860/leetcode/tree/master/0097-interleaving-string) |
+| [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -273,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/aditya1860/leetcode/tree/master/0785-is-graph-bipartite) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
