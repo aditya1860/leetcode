@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya1860/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/aditya1860/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aditya1860/leetcode/tree/master/0062-unique-paths) |
 | [0097-interleaving-string](https://github.com/aditya1860/leetcode/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya1860/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aditya1860/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/aditya1860/leetcode/tree/master/1025-divisor-game) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## DP on Trees
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/aditya1860/leetcode/tree/master/0097-interleaving-string) |
 | [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/aditya1860/leetcode/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/aditya1860/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/aditya1860/leetcode/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/aditya1860/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya1860/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/aditya1860/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
