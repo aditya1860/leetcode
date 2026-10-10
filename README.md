@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/aditya1860/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya1860/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/aditya1860/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aditya1860/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/aditya1860/leetcode/tree/master/0409-longest-palindrome) |
 | [1748-sum-of-unique-elements](https://github.com/aditya1860/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/aditya1860/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Backtracking
 |  |
 | ------- |
