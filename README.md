@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya1860/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/aditya1860/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya1860/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya1860/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aditya1860/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/aditya1860/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aditya1860/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aditya1860/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aditya1860/leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya1860/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya1860/leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aditya1860/leetcode/tree/master/0089-gray-code) |
 ## Combinatorics
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya1860/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditya1860/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aditya1860/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aditya1860/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aditya1860/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya1860/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya1860/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/aditya1860/leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/aditya1860/leetcode/tree/master/0097-interleaving-string) |
 | [0316-remove-duplicate-letters](https://github.com/aditya1860/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/aditya1860/leetcode/tree/master/0409-longest-palindrome) |
