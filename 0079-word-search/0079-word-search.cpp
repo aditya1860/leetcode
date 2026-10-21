@@ -4,8 +4,8 @@ public:
         int m = board.size();
         int n = board[0].size();
         
-        function<bool(int, int, int)> backtrack = [&](int i, int j, int k) {
-            if (k == word.length()) {
+        function<bool(int,int,int)> backtrack = [&](int i, int j, int k) {
+            if ( k == word.length()) {
                 return true;
             }
             if (i < 0 || i >= m || j < 0 || j >= n || board[i][j] != word[k]) {
@@ -13,7 +13,7 @@ public:
             }
             
             char temp = board[i][j];
-            board[i][j] = '\0';
+            board[i][j] = '#';
             
             if (backtrack(i + 1, j, k + 1) || backtrack(i - 1, j, k + 1) || 
                 backtrack(i, j + 1, k + 1) || backtrack(i, j - 1, k + 1)) {
