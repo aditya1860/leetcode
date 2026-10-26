@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya1860/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/aditya1860/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditya1860/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2951-find-the-peaks](https://github.com/aditya1860/leetcode/tree/master/2951-find-the-peaks) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/aditya1860/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya1860/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/aditya1860/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/aditya1860/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aditya1860/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/aditya1860/leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
