@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya1860/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/aditya1860/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditya1860/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aditya1860/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya1860/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2951-find-the-peaks](https://github.com/aditya1860/leetcode/tree/master/2951-find-the-peaks) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/aditya1860/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya1860/leetcode/tree/master/0054-spiral-matrix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditya1860/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aditya1860/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## String
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya1860/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1860/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aditya1860/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Brainteaser
 |  |
 | ------- |
