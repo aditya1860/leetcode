@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/aditya1860/leetcode/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aditya1860/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya1860/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/aditya1860/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/aditya1860/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Recursion
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya1860/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/aditya1860/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditya1860/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/aditya1860/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya1860/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/aditya1860/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
