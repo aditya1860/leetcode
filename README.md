@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/aditya1860/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya1860/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1486-xor-operation-in-an-array](https://github.com/aditya1860/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/aditya1860/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/aditya1860/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/aditya1860/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/aditya1860/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/aditya1860/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditya1860/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/aditya1860/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2951-find-the-peaks](https://github.com/aditya1860/leetcode/tree/master/2951-find-the-peaks) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/aditya1860/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/aditya1860/leetcode/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/aditya1860/leetcode/tree/master/0409-longest-palindrome) |
 | [1748-sum-of-unique-elements](https://github.com/aditya1860/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2549-count-distinct-numbers-on-board](https://github.com/aditya1860/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/aditya1860/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/aditya1860/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Backtracking
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aditya1860/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/aditya1860/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -365,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/aditya1860/leetcode/tree/master/2951-find-the-peaks) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/aditya1860/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
