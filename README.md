@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya1860/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/aditya1860/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya1860/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya1860/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya1860/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya1860/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/aditya1860/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/aditya1860/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditya1860/leetcode/tree/master/0049-group-anagrams) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya1860/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/aditya1860/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aditya1860/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya1860/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
